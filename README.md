@@ -78,7 +78,7 @@ Understanding how traffic looks on the wire is critical for IT, networking, and 
 
 ---
 
-## 📸 Suggested Screenshots
+## 📸 Sreenshots
 - Azure Portal showing both VMs deployed in the same virtual network.  
 - Failed ping attempt before firewall changes.  
 - Successful ping reply after creating the ICMP rule.  
