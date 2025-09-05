@@ -80,11 +80,27 @@ Understanding how traffic looks on the wire is critical for IT, networking, and 
 
 ## 📸 Sreenshots
 - Azure Portal showing both VMs deployed in the same virtual network.  
+<img width="1959" height="493" alt="use this one" src="https://github.com/user-attachments/assets/e310d3de-71c6-4d6b-a9c6-1cf6b0e6acc8" />
+
+
 - Failed ping attempt before firewall changes.  
-- Successful ping reply after creating the ICMP rule.  
-- Wireshark capture showing ICMP echo requests and replies.  
-- Wireshark view of SSH traffic during login.  
-- Wireshark capture of DHCP traffic during `ipconfig /renew`.  
-- DNS query/response traffic for `google.com` or `disney.com`.  
-- Continuous RDP traffic stream in Wireshark.  
+<img width="1860" height="988" alt="werwer" src="https://github.com/user-attachments/assets/e948797f-4ebc-4f45-9300-b6997afa24bd" />
+
+
+- Successful ping reply after creating the ICMP rule, and Wireshark capture showing ICMP echo requests and replies.  
+<img width="1626" height="956" alt="11" src="https://github.com/user-attachments/assets/434a1479-19b7-496a-b378-51c3ba1bd14b" />
+
+
+- Wireshark view of SSH traffic during login, and Wireshark capture of DHCP traffic during `ipconfig /renew`.  
+<img width="1872" height="1040" alt="13" src="https://github.com/user-attachments/assets/6bf0e4b8-3e14-496f-b88b-fb7c658b652c" />
+
+
+- DNS query/response traffic for `disney.com`.  
+<img width="1788" height="954" alt="14" src="https://github.com/user-attachments/assets/679a1c7a-14ef-4b33-90bd-7a49bf5a9f1c" />
+
+
+- Continuous RDP traffic stream in Wireshark.
+<img width="1517" height="868" alt="15 RDP=port 3389" src="https://github.com/user-attachments/assets/b4e607e5-dfd8-448a-bd27-4a2bd51fdd9e" />
+
+  
 ****
