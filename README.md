@@ -9,7 +9,7 @@
 ---
 
 ## Objective
-I wanted to get hands-on with network traffic analysis in a real cloud environment. The goal of this project was to spin up Windows and Linux virtual machines in Azure, generate traffic between them, and analyze it using Wireshark. This helped me understand how protocols like ICMP, SSH, DHCP, DNS, and RDP behave in practice.
+I wanted to get hands-on with network traffic analysis in a real cloud environment. The goal in mind was to spin up Windows and Linux virtual machines in Azure, generate traffic between them, and analyze it using Wireshark. This helped me understand how protocols like ICMP, SSH, DHCP, DNS, and RDP behave in practice.
 
 ## Environment Setup
 - **Platform:** Microsoft Azure  
