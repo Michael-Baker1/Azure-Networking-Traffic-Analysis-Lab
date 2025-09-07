@@ -1,4 +1,4 @@
-# Azure Networking & Traffic Analysis Lab (Wireshark)
+# Azure Networking & Traffic Analysis (Wireshark)
 
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Tool-Wireshark-1679A7?logo=wireshark&logoColor=white)
